@@ -96,10 +96,6 @@
   "url": "http://118.107.85.4:1935/live/smil:VTV4.smil/chunklist.m3u8"
  },
  {
-  "title": "Truyền hình VTV8",
-  "url": "https://hatvoinhau.net/api/playtv/vtv8c.m3u8"
- },
- {
   "title": "Truyền hình VTV9",
   "url": "https://hatvoinhau.net/api/playtv/vtv9c.m3u8"
  },
