@@ -23,12 +23,10 @@
  },
  {
   "title": "Truyền hình HTV7",
-  "url": "https://htvc271120.cdn.vnns.io/1b51c00d5ed7ed6d70543f7576e56af01714303751/htv7.cat.720p.tms/playlist.m3u8"
- },
+  "url": "https://tth.vn/HTV7},
  {
   "title": "Truyền hình HTV9",
-  "url": "https://htvc271120.cdn.vnns.io/ae7dd50b427572eaf5a436fb5b1d954a1714303751/htv9.cat.720p.tms/playlist.m3u8"
- },
+  "url": "https://tth.vn/HTV9"},
  {
   "title": "Truyền hình TP Cần Thơ",
   "url": "https://live.canthotv.vn/live/tv/chunklist.m3u8"
