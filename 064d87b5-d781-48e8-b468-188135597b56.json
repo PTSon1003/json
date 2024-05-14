@@ -1,10 +1,10 @@
 [
  {
   "title": "Truyền hình Vĩnh Long 1",
-  "url": "https://tth.vn/vinhlong1hd"},
+  "url": "https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8"},
  {
   "title": "Truyền hình Vĩnh Long 2",
-  "url": "https://tth.vn/vinhlong2hd"},
+  "url": "https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8"},
  {
   "title": "Truyền hình Trà Vinh",
   "url": "https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8"
@@ -27,7 +27,7 @@
  },
  {
   "title": "Truyền hình HTV7",
-  "url": "https://tth.vn/HTV7"},
+  "url": "https://vc.101vn.com/htv/htvcmb.php?id=256"},
  {
   "title": "Truyền hình HTV9",
   "url": "https://tth.vn/HTV9"},
@@ -73,7 +73,7 @@
  },
  {
   "title": "Truyền hình VTV1",
-  "url": "https://vtc301220.cdn.vnns.io/VTV1HD.stream/playlist.m3u8"
+  "url": "http://171.238.181.52:18080/154.m3u8"
  },
  {
   "title": "Truyền hình VTV2",
