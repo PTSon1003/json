@@ -109,11 +109,11 @@
  },
  {
   "title": "Truyền hình VTC1",
-  "url": "https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8"
+  "url": "https://api.wintv.me/360/16/index.m3u8"
  },
  {
   "title": "Truyền hình VTC2",
-  "url": "https://1236573804.pop.vnptcdn.com/VTC2/playlist.m3u8"
+  "url": "https://api.wintv.me/360/196/index.m3u8"
  },
  {
   "title": "Truyền hình VTC3",
