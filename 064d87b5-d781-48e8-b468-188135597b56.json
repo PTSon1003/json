@@ -81,7 +81,7 @@
  },
  {
   "title": "Truyền hình VTV1",
-  "url": "http://171.238.181.52:18080/154.m3u8"
+  "url": "http://103.101.162.86/vtv1?token=live"
  },
  {
   "title": "Truyền hình VTV2",
