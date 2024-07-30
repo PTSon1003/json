@@ -105,7 +105,7 @@
  },
  {
   "title": "Truyền hình HTVC Thể Thao",
-  "url": "https://htvc271120.cdn.vnns.io/cd65e622e221287ff8d3387424e2c29e1714303752/htvthethao.adm.720p.tms/playlist.m3u8"
+  "url": "https://api.wintv.me/htvtt/index.m3u8"
  },
  {
   "title": "Truyền hình VTC1",
