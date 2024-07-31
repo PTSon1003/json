@@ -19,11 +19,11 @@
  },
  {
   "title": "Truyền hình HTV1",
-  "url": "https://htvc271120.cdn.vnns.io/63d3c4d638e5c8aa7d299faf6cde2b251714303751/htv1.720p.nimble.tms/playlist.m3u8"
+  "url": "https://wintv.fun/360/190/index.m3u8"
  },
  {
   "title": "Truyền hình HTV2",
-  "url": "https://htvc271120.cdn.vnns.io/091e7a73800c1db1a12880ee353951e61714303751/htv2.cat.720p.tms/playlist.m3u8"
+  "url": "https://wintv.fun/360/191/index.m3u88"
  },
  {
  "title": "Truyền hình HTV3",
@@ -31,7 +31,7 @@
  },
  {
   "title": "Truyền hình HTV4",
-  "url": "https://htvc271120.cdn.vnns.io/614ce98756b2c5a2f1c177e2b7c3ce091714303751/htv4.480p.nimble.tms/playlist.m3u8"
+  "url": "http://wintv.fun/360/9/index.m3u8"
  },
  {
   "title": "Truyền hình HTV7",
@@ -41,12 +41,11 @@
   "url": "https://tth.vn/HTV9"},
  {
   "title": "Truyền hình TP Cần Thơ",
-  "url": "https://live.canthotv.vn/live/tv/chunklist.m3u8"
+  "url": "http://wintv.fun/360/47/index.m3u8"
  },
  {
   "title": "Truyền hình Bến Tre",
-  "url": "https://1011337676.vnns.net/CDN-FPT02/BENTRE-SD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiNDUuMTE5Ljg1LjM1IiwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsInBob25lIjoiMDk4NzY1NDMyMSIsImFwcF9jb2RlIjoiaHR2YyIsImNoYW5uZWxfY29kZSI6IlZUVjEiLCJhcHBfdXNlcl9pZCI6IjQ1LjExOS44NS4zNSIsImlhdCI6MTcxMzY5Nzk1MX0.VDy6MTGKhXJuRUox5kj3pE42heUXvO0_ITehpcjOF6rxQwTwebwMqDAi42UcwO10IOyjujo63wuWfNvaNWhbeaSxb7zNrIf-8GFtToRyPoNXALQnLeuIq6xba-QbDZLivEVu7MguageYkpx6mMnIO-txszYoO7xLG4nV8MYblDp2n7mAXlm7C2nu6g6pkdfr4Tc6krWZ5qYqUfGfg7aa8ESah16ZA484kmYu8jdD56PV2L-fFt87JcdKc_SgzFGYkRhkG0ikFDV9QDR3g2LgedrjEVH_gvDN0uGyM0NpTNW_Fm0lrsulxxHcTUmcL0YerMqlsu0EYLfXlnacCYJ60XuNj3peFPBcSmVxSLUcdvNmDpu2LCWWQ8zpiaXIKTZO8zwYiO1tg2ImAo465zZQ2-vTk2dEwDQIxuiPXUGoG9qiqzTBLLw3VLszq8tas89AyZAw7SJ69Sco2N4UQuOa8P029IUigp90KKtDSR_n9K6MBfitzku32330xrocPr7RYrH7gfk2DLzsQ1a-bhoOwgww5Up5KEFeDKIuPiB9ak0P6u976oQVpSF4dvBzXJvifYN1JRmWi9exmom7d38yD_v7KQEbwQcWhSMcHfHeGTBHa4kw_bShLUH2-8Y2bJ6VQCXukoR8Tb2siXTLQTZbx7iQ6jfYWDPGsMmE3b6Mygo"
- },
+  "url": "http://wintv.fun/360/40/index.m3u8"},
  {
   "title": "Truyền hình Đồng Tháp",
   "url": "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8"
@@ -353,7 +352,7 @@
  },
  {
   "title": "Truyền hình Tây Ninh",
-  "url": "https://1011154949.vnns.net/0f13b8fdde658e21bbaa836d5dde80261706168608/tayninhsd.720p.adm.tms/playlist.m3u8"
+  "url": "http://wintv.fun/360/86/index.m3u8"
  },
  {
   "title": "Truyền hình Thái Bình",
