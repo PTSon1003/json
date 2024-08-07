@@ -7,11 +7,11 @@
   "url": "https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8"},
   {
   "title": "Truyền hình Vĩnh Long 3",
-  "url": "http://wintv.fun/360/219/index.m3u8"
+  "url": "http://api.wintv.me/360/219/index.m3u8"
  },
  {
   "title": "Truyền hình Vĩnh Long 4",
-  "url": "http://wintv.fun/360/220/index.m3u8"
+  "url": "http://api.wintv.me/360/220/index.m3u8"
  },
  {
   "title": "Truyền hình Trà Vinh",
@@ -19,7 +19,7 @@
  },
  {
   "title": "Truyền hình HTV1",
-  "url": "http://wintv.fun/360/190/index.m3u8"
+  "url": "http://api.wintv.me/360/190/index.m3u8"
  },
  {
   "title": "Truyền hình HTV2",
@@ -31,21 +31,26 @@
  },
  {
   "title": "Truyền hình HTV4",
-  "url": "http://wintv.fun/360/9/index.m3u8"
+  "url": "http://api.wintv.me/360/9/index.m3u8"
  },
  {
   "title": "Truyền hình HTV7",
   "url": "https://vc.101vn.com/htv/htvcmb.php?id=256"},
  {
   "title": "Truyền hình HTV9",
-  "url": "https://tth.vn/HTV9"},
+  "url": "https://tth.vn/HTV9"
+ },
+  {
+  "title": "Truyền hình HTV The Thao",
+  "url": "https://tth.vn/YgWt"
+  },
  {
   "title": "Truyền hình TP Cần Thơ",
-  "url": "http://wintv.fun/360/47/index.m3u8"
+  "url": "http://api.wintv.me/360/47/index.m3u8"
  },
  {
   "title": "Truyền hình Bến Tre",
-  "url": "http://wintv.fun/360/40/index.m3u8"},
+  "url": "http://api.wintv.me/360/40/index.m3u8"},
  {
   "title": "Truyền hình Đồng Tháp",
   "url": "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8"
