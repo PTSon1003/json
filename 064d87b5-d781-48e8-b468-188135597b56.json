@@ -73,7 +73,7 @@
  },
  {
   "title": "Truyền hình An Giang",
-  "url": "https://1011337676.vnns.net/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiNDUuMTE5Ljg1LjM1IiwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsInBob25lIjoiMDk4NzY1NDMyMSIsImFwcF9jb2RlIjoiaHR2YyIsImNoYW5uZWxfY29kZSI6IlZUVjEiLCJhcHBfdXNlcl9pZCI6IjQ1LjExOS44NS4zNSIsImlhdCI6MTcxMzY5Nzk1MX0.VDy6MTGKhXJuRUox5kj3pE42heUXvO0_ITehpcjOF6rxQwTwebwMqDAi42UcwO10IOyjujo63wuWfNvaNWhbeaSxb7zNrIf-8GFtToRyPoNXALQnLeuIq6xba-QbDZLivEVu7MguageYkpx6mMnIO-txszYoO7xLG4nV8MYblDp2n7mAXlm7C2nu6g6pkdfr4Tc6krWZ5qYqUfGfg7aa8ESah16ZA484kmYu8jdD56PV2L-fFt87JcdKc_SgzFGYkRhkG0ikFDV9QDR3g2LgedrjEVH_gvDN0uGyM0NpTNW_Fm0lrsulxxHcTUmcL0YerMqlsu0EYLfXlnacCYJ60XuNj3peFPBcSmVxSLUcdvNmDpu2LCWWQ8zpiaXIKTZO8zwYiO1tg2ImAo465zZQ2-vTk2dEwDQIxuiPXUGoG9qiqzTBLLw3VLszq8tas89AyZAw7SJ69Sco2N4UQuOa8P029IUigp90KKtDSR_n9K6MBfitzku32330xrocPr7RYrH7gfk2DLzsQ1a-bhoOwgww5Up5KEFeDKIuPiB9ak0P6u976oQVpSF4dvBzXJvifYN1JRmWi9exmom7d38yD_v7KQEbwQcWhSMcHfHeGTBHa4kw_bShLUH2-8Y2bJ6VQCXukoR8Tb2siXTLQTZbx7iQ6jfYWDPGsMmE3b6Mygo"
+  "url": "https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8"
  },
  {
   "title": "Truyền hình Bạc Liêu",
@@ -169,7 +169,7 @@
  },
  {
   "title": "Truyền hình Bà Rịa Vũng Tàu",
-  "url": "https://1011337676.vnns.net/CDN-FPT02/BRVT-SD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiNDUuMTE5Ljg1LjM1IiwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsInBob25lIjoiMDk4NzY1NDMyMSIsImFwcF9jb2RlIjoiaHR2YyIsImNoYW5uZWxfY29kZSI6IlZUVjEiLCJhcHBfdXNlcl9pZCI6IjQ1LjExOS44NS4zNSIsImlhdCI6MTcxMzY5Nzk1Mn0.W18RlnwAk1EDoijxElRvh-1da4C1vvpHyg-9XNLFEzhnH196sgOS3gIvcaYL-ga37Qxs0nkls7kn8GSmK41wMH1PeSU9aNfTPpRtYs6LlXCOaZV4CU4riO4WTWB22jIsgoI_sm4sExB3YthPDOW9KMMpo2cbTBqIYlUj4ZenRF76YrxGF053xfddf6kguCNsLSgaYo0UKeiaRVQkc8Gys_c0VvqapH03PgV6WCZXp5L8H9iqrSLXaS2SigupBEszUH0Kpa1kB0kWt2AB8PhKIUYkauDDLkYoCM1mFIHKk-PQIc6G2nkzjYcJ5Cm0rHKvlTQXe-7KLgZGD7mTCqihYy9Zo2I8QEOIJ0jRc7W9jMfJEPvPHNC5L6EnIqqqYJ0p8s1ICVLIiJRsChBVdUOMREy_ETx8vQOv3Hjv0RiBpjrSbLy_haetFbVdkNztbgpfk-Fa1fn3iBLCnFEqvTop-ak4cZvugz8U7_Gy-tRSS6fLlJHmSrb6Ztg_i3sEY2Ow-fba9IdBeFygxRDXYQsrI9AHwU392wWVmLBZH3sdwz3hKCmjBUUf7W9wsGP_s1TkUXBPenfcQELlTcV0xZlsKqOuAUzyVdz-4TA93ggmWhHmRbKJkkIYtBAKTpU5nzgfuBaRXP4gNmKQcvOcuEy67ykfPbu0FG29xGJH0sKE3R4"
+  "url": "https://oipf0znpmnliv.vcdn.cloud/hls/brvt/index.m3u8"
  },
  {
   "title": "Truyền hình Bắc Ninh",
@@ -177,15 +177,15 @@
  },
  {
   "title": "Truyền hình Bắc Giang",
-  "url": "https://1253668792.e.cdneverest.net/CLA-iobZRFewHmYdvcM9jw/1705783124/live/285983d45f5bdab43ebb4cab75573adeda1/playlist.m3u8"
+  "url": "https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8"
  },
  {
   "title": "Truyền hình Bình Dương 1",
-  "url": "https://1011337676.vnns.net/CDN-FPT02/BINHDUONG1-SD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiNDUuMTE5Ljg1LjM1IiwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsInBob25lIjoiMDk4NzY1NDMyMSIsImFwcF9jb2RlIjoiaHR2YyIsImNoYW5uZWxfY29kZSI6IlZUVjEiLCJhcHBfdXNlcl9pZCI6IjQ1LjExOS44NS4zNSIsImlhdCI6MTcxMzY5Nzk1Mn0.W18RlnwAk1EDoijxElRvh-1da4C1vvpHyg-9XNLFEzhnH196sgOS3gIvcaYL-ga37Qxs0nkls7kn8GSmK41wMH1PeSU9aNfTPpRtYs6LlXCOaZV4CU4riO4WTWB22jIsgoI_sm4sExB3YthPDOW9KMMpo2cbTBqIYlUj4ZenRF76YrxGF053xfddf6kguCNsLSgaYo0UKeiaRVQkc8Gys_c0VvqapH03PgV6WCZXp5L8H9iqrSLXaS2SigupBEszUH0Kpa1kB0kWt2AB8PhKIUYkauDDLkYoCM1mFIHKk-PQIc6G2nkzjYcJ5Cm0rHKvlTQXe-7KLgZGD7mTCqihYy9Zo2I8QEOIJ0jRc7W9jMfJEPvPHNC5L6EnIqqqYJ0p8s1ICVLIiJRsChBVdUOMREy_ETx8vQOv3Hjv0RiBpjrSbLy_haetFbVdkNztbgpfk-Fa1fn3iBLCnFEqvTop-ak4cZvugz8U7_Gy-tRSS6fLlJHmSrb6Ztg_i3sEY2Ow-fba9IdBeFygxRDXYQsrI9AHwU392wWVmLBZH3sdwz3hKCmjBUUf7W9wsGP_s1TkUXBPenfcQELlTcV0xZlsKqOuAUzyVdz-4TA93ggmWhHmRbKJkkIYtBAKTpU5nzgfuBaRXP4gNmKQcvOcuEy67ykfPbu0FG29xGJH0sKE3R4"
+  "url": "https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8"
  },
  {
   "title": "Truyền hình Bình Dương 2",
-  "url": "https://htvc271120.cdn.vnns.io/ea0d159b21edfde24589552200926de61714303752/btv2.480p.tms/playlist.m3u8"
+  "url": "https://oipf0znpmnliv.vcdn.cloud/hls/btv2/index.m3u8"
  },
  {
   "title": "Truyền hình Bình Định",
@@ -201,7 +201,7 @@
  },
  {
   "title": "Truyền hình Bình Thuận",
-  "url": "https://1011337676.vnns.net/CDN-FPT02/BINHTHUAN-SD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiNDUuMTE5Ljg1LjM1IiwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsInBob25lIjoiMDk4NzY1NDMyMSIsImFwcF9jb2RlIjoiaHR2YyIsImNoYW5uZWxfY29kZSI6IlZUVjEiLCJhcHBfdXNlcl9pZCI6IjQ1LjExOS44NS4zNSIsImlhdCI6MTcxMzY5Nzk1Mn0.W18RlnwAk1EDoijxElRvh-1da4C1vvpHyg-9XNLFEzhnH196sgOS3gIvcaYL-ga37Qxs0nkls7kn8GSmK41wMH1PeSU9aNfTPpRtYs6LlXCOaZV4CU4riO4WTWB22jIsgoI_sm4sExB3YthPDOW9KMMpo2cbTBqIYlUj4ZenRF76YrxGF053xfddf6kguCNsLSgaYo0UKeiaRVQkc8Gys_c0VvqapH03PgV6WCZXp5L8H9iqrSLXaS2SigupBEszUH0Kpa1kB0kWt2AB8PhKIUYkauDDLkYoCM1mFIHKk-PQIc6G2nkzjYcJ5Cm0rHKvlTQXe-7KLgZGD7mTCqihYy9Zo2I8QEOIJ0jRc7W9jMfJEPvPHNC5L6EnIqqqYJ0p8s1ICVLIiJRsChBVdUOMREy_ETx8vQOv3Hjv0RiBpjrSbLy_haetFbVdkNztbgpfk-Fa1fn3iBLCnFEqvTop-ak4cZvugz8U7_Gy-tRSS6fLlJHmSrb6Ztg_i3sEY2Ow-fba9IdBeFygxRDXYQsrI9AHwU392wWVmLBZH3sdwz3hKCmjBUUf7W9wsGP_s1TkUXBPenfcQELlTcV0xZlsKqOuAUzyVdz-4TA93ggmWhHmRbKJkkIYtBAKTpU5nzgfuBaRXP4gNmKQcvOcuEy67ykfPbu0FG29xGJH0sKE3R4"
+  "url": "https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8"
  },
  {
   "title": "Truyền hình Cao Bằng",
@@ -225,7 +225,7 @@
  },
  {
   "title": "Truyền hình Đồng Nai 1",
-  "url": "https://htvc271120.cdn.vnns.io/421ced5a6380c7280cb987e88e43ee961714303752/dongnai1.adm.720p.tms/playlist.m3u8"
+  "url": "http://api.wintv.me/360/53/index.m3u8"
  },
  {
   "title": "Truyền hình Đồng Nai 2",
@@ -261,7 +261,7 @@
  },
  {
   "title": "Truyền hình Hải Phòng",
-  "url": "https://1011337676.vnns.net/CDN-FPT02/HAIPHONG-SD-ABR/playlist.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiNDUuMTE5Ljg1LjM1IiwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsInBob25lIjoiMDk4NzY1NDMyMSIsImFwcF9jb2RlIjoiaHR2YyIsImNoYW5uZWxfY29kZSI6IlZUVjEiLCJhcHBfdXNlcl9pZCI6IjQ1LjExOS44NS4zNSIsImlhdCI6MTcxMzY5Nzk1M30.nEicbgsxrsGuST6OsM4ZsnUEHHrI_83DxpzuSGQMdwEisgJL9Cun_HaacM_SoWu5kADiWy5GJwQqxwI70P12Pc55NCXuXGvA8QEcI5HGNvUHTUAbrzHW_jV65p_y1iz5H9O85raA27CxL04uB1ziy5bMiYfk9u9bu1Cxmckw1JIF5SU45__2ZVagXQlr2aYEvRCvp3PxxLMGxkbRZFIVrdgdeGRDyMxYbV8dSKrtKYp3MRpBcJAqGD3S_bJT76qsS4J0Bt6Prc1sqLx5JyVxd0NmGxpSF5y5BvfSdKiwZ3hzF4ftS39mEgA_RECpoFVj5oIW-uyON7U6NaPH7EfT1lDE9P8jzYsy_IYateAg-83xQO2Tr9xoRa6powURI4bhbqn9bJEi3TJ4ebDPgh7hklz1HcuX9qKVl-eb4nUmxctLzMHdr3pyfRTWwRxtv0fp2IuPeQT1PtuCUvzMKT_ePjQP0itMYjXIyblXtZC1B7dGoH1OypD3IVvngmJu3peUTPg4ksn0sfj62WdjecZ1GZm0sEXbJFU2cPP0RUSnF6DL0HUXUPjL-xcrvuYbctEZ-8Iy79lqBb1RmXQEEb9tN1Yhca98F6LycDcBwVqeudnc47ESbCBbPIFaZ3OEcwlNVhR1Uxq_JexLCsi_lhftmsPh6bk1WO0mYX3a5WPfzkU"
+  "url": "https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8"
  },
  {
   "title": "Truyền hình Hòa Bình",
