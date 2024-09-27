@@ -1,19 +1,19 @@
 [
     {
         "title": "Truyền hình Vĩnh Long 1",
-        "url": "https://hatvoinhau.net/api/playtv?id=cd8d188d055852c5c6a2b3b3d605ea96360c59af9bb87999dd31c876d4ff9838"
+        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8"
     },
     {
         "title": "Truyền hình Vĩnh Long 2",
-        "url": "https://hatvoinhau.net/api/playtv?id=3d87edeb6c54e0158470a66481ea2ea8195bd3db0baee8fdc017f4664816846f"
+        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8"
     },
     {
         "title": "Truyền hình Vĩnh Long 3",
-        "url": "https://hatvoinhau.net/api/playtv/vinhlong3c.m3u8"
+        "url": "http://thvip.site/360/219/index.m3u8"
     },
     {
         "title": "Truyền hình Vĩnh Long 4",
-        "url": "https://hatvoinhau.net/api/playtv/vinhlong4c.m3u8"
+        "url": "http://thvip.site/360/220/index.m3u8"
     },
     {
         "title": "Truyền hình Trà Vinh",
