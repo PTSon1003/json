@@ -21,27 +21,15 @@
     },
     {
         "title": "Truyền hình HTV1",
-        "url": "http://hoangvanh.id.vn/iptv/tv360mpd.php?id=190"
+        "url": "http://xemtivi.zapto.org:8080/360/tv360mpd.php?id=190"
     },
     {
         "title": "Truyền hình HTV2",
-        "url": "http://hoangvanh.id.vn/iptv/tv360mpd.php?id=191"
+        "url": "http://xemtivi.zapto.org:8080/360/tv360mpd.php?id=191"
     },
     {
         "title": "Truyền hình HTV3",
-        "url": "http://hoangvanh.id.vn/iptv/tv360mpd.php?id=192"
-    },
-    {
-        "title": "Truyền hình HTV4",
-        "url": "http://hoangvanh.id.vn/iptv/tv360mpd.php?id=9"
-    },
-    {
-        "title": "Truyền hình HTV7",
-        "url": "http://hoangvanh.id.vn/iptv/tv360mpd.php?id=193"
-    },
-    {
-        "title": "Truyền hình HTV9",
-        "url": "http://hoangvanh.id.vn/iptv/tv360mpd.php?id=194"
+        "url": "http://xemtivi.zapto.org:8080/360/tv360mpd.php?id=192"
     },
     {
         "title": "Truyền hình TP Cần Thơ",
@@ -86,42 +74,6 @@
     {
         "title": "Truyền hình Cà Mau",
         "url": "https://tv.ctvcamau.vn/live/tv/tv.m3u8"
-    },
-    {
-        "title": "Truyền hình VTV1",
-        "url": "https://hatvoinhau.net/api/playtv/vtv1c.m3u8"
-    },
-    {
-        "title": "Truyền hình VTV2",
-        "url": "https://hatvoinhau.net/api/playtv/vtv2c.m3u8"
-    },
-    {
-        "title": "Truyền hình VTV3",
-        "url": "https://hatvoinhau.net/api/playtv/vtv3c.m3u8"
-    },
-    {
-        "title": "Truyền hình VTV4",
-        "url": "https://hatvoinhau.net/api/playtv/vtv4c.m3u8"
-    },
-    {
-        "title": "Truyền hình VTV5",
-        "url": "https://hatvoinhau.net/api/playtv/vtv5c.m3u8"
-    },
-    {
-        "title": "Truyền hình VTV6",
-        "url": "https://hatvoinhau.net/api/playtv/vtv6c.m3u8"
-    },
-    {
-        "title": "Truyền hình VTV7",
-        "url": "https://hatvoinhau.net/api/playtv/vtv7c.m3u8"
-    },
-    {
-        "title": "Truyền hình VTV8",
-        "url": "https://hatvoinhau.net/api/playtv/vtv8c.m3u8"
-    },
-    {
-        "title": "Truyền hình VTV9",
-        "url": "https://hatvoinhau.net/api/playtv/vtv9c.m3u8"
     },
     {
         "title": "Truyền hình HTVC Phim",
