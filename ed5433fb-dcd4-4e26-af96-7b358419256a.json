@@ -11,6 +11,38 @@
         "title": "VTV3",
         "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8"
     },
+     {
+        "title": "VTV4",
+        "url": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8"
+    },
+     {
+        "title": "VTV5",
+        "url": "https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8"
+    },
+     {
+        "title": "VTV5 TNB",
+        "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8"
+    },
+     {
+        "title": "VTV5 TN",
+        "url": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8"
+    },
+     {
+        "title": "VTV Can Tho",
+        "url": "https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8"
+    },
+       {
+        "title": "VTV7",
+        "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8"
+    },
+       {
+        "title": "VTV8",
+        "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8"
+    },
+       {
+        "title": "VTV9",
+        "url": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8"
+    },
     {
         "title": "Truyền hình Vĩnh Long 1",
         "url": "https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8"
@@ -113,51 +145,51 @@
     },
     {
         "title": "Truyền hình VTC4",
-        "url": "https://hatvoinhau.net/api/playtv/vtc4c.m3u8"
+        "url": "https://live.fptplay53.net/fnxhd2/vtc4_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình VTC5",
-        "url": "https://hatvoinhau.net/api/playtv/vtc5c.m3u8"
+        "url": "https://live.fptplay53.net/fnxhd2/vtc5_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình VTC6",
-        "url": "https://1117141481.vnns.net/VTC6/playlist.m3u8"
+        "url": "https://live.fptplay53.net/fnxhd2/vtc6_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình VTC7",
-        "url": "https://hatvoinhau.net/api/playtv/vtc7c.m3u8"
+        "url": "https://live.fptplay53.net/fnxhd2/todaytv_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình VTC8",
-        "url": "https://hatvoinhau.net/api/playtv/vtc8c.m3u8"
+        "url": "https://live.fptplay53.net/fnxhd2/vtc8_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình VTC9",
-        "url": "https://hatvoinhau.net/api/playtv/vtc9c.m3u8"
+        "url": "https://live.fptplay53.net/fnxhd2/vtc9_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình VTC10",
-        "url": "https://1117141481.vnns.net/VTC10/playlist.m3u8"
+        "url": "https://live.fptplay53.net/fnxhd2/vtc10hd_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình VTC11",
-        "url": "https://hatvoinhau.net/api/playtv/vtv11c.m3u8"
+        "url": "https://live.fptplay53.net/fnxhd2/vtc11_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình VTC12",
-        "url": "https://hatvoinhau.net/api/playtv/vtc12c.m3u8"
+        "url": "https://live.fptplay53.net/fnxhd2/vtc12hd_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình VTC13",
-        "url": "https://hatvoinhau.net/api/playtv/vtv13c.m3u8"
+        "url": "https://live.fptplay53.net/fnxhd2/vtc13hd_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình VTC14",
-        "url": "https://hatvoinhau.net/api/playtv/vtc14c.m3u8"
+        "url": "https://live.fptplay53.net/fnxhd2/vtc14_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình VTC16",
-        "url": "https://hatvoinhau.net/api/playtv/vtc16c.m3u8"
+        "url": "https://live.fptplay53.net/fnxhd2/vtc16_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình SCTV2",
