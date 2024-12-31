@@ -1,5 +1,13 @@
 [
     {
+        "title": "Truyền hình ANTV",
+        "url": "https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8"
+    },
+    {
+        "title": "Truyền hình VOV",
+        "url": "https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8?"
+    },
+    {
         "title": "VTV1",
         "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8"
     },
@@ -49,7 +57,7 @@
     },
     {
         "title": "Truyền hình Vĩnh Long 2",
-        "url": "http://xemtivi.zapto.org:8080/360/tv360mpd.php?id=26"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=26"
     },
     {
         "title": "Truyền hình Vĩnh Long 3",
@@ -65,27 +73,27 @@
     },
     {
         "title": "Truyền hình HTV1",
-        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2631"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=190"
     },
     {
         "title": "Truyền hình HTV2",
-        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2669"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=191"
     },
     {
         "title": "Truyền hình HTV3",
-        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2535"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=192"
     },
      {
         "title": "Truyền hình HTV4",
-        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2528"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=9"
     },
      {
         "title": "Truyền hình HTV7",
-        "url": "https://vc.101vn.com/htv/htvcmb.php?id=256"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=193"
     },
      {
         "title": "Truyền hình HTV9",
-        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2667"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=194"
     },
     {
         "title": "Truyền hình TP Cần Thơ",
@@ -97,9 +105,9 @@
     },
     {
         "title": "Truyền hình Sóc Trăng",
-        "url": "https://thvip.site/360/84/index.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=84"
     },
-    {
+       {
         "title": "Truyền hình Đồng Tháp",
         "url": "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8"
     },
@@ -208,14 +216,6 @@
         "url": "https://live.fptplay53.net/fnxhd2/vtc11_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Truyền hình VTC12",
-        "url": "https://live.fptplay53.net/fnxhd2/vtc12hd_hls.smil/chunklist_b2500000.m3u8"
-    },
-    {
-        "title": "Truyền hình VTC13",
-        "url": "https://live.fptplay53.net/fnxhd2/vtc13hd_hls.smil/chunklist_b2500000.m3u8"
-    },
-    {
         "title": "Truyền hình VTC14",
         "url": "https://live.fptplay53.net/fnxhd2/vtc14_hls.smil/chunklist_b2500000.m3u8"
     },
@@ -224,28 +224,24 @@
         "url": "https://live.fptplay53.net/fnxhd2/vtc16_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Truyền hình SCTV2",
-        "url": "https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8"
+        "title": "Truyền hình SCTV6",
+        "url": "http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8"
     },
     {
         "title": "Truyền hình Bà Rịa Vũng Tàu",
-        "url": "https://hatvoinhau.net/api/playtv?id=4bc0efca95fc4f2a1a99460b3272efdfbf6728f4184b4a6e2e689b924e28a7ca"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=94"
     },
     {
         "title": "Truyền hình Bắc Ninh",
         "url": "https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8"
     },
-    {
-        "title": "Truyền hình Bắc Giang",
-        "url": "https://1253668792.e.cdneverest.net/CLA-iobZRFewHmYdvcM9jw/1705783124/live/285983d45f5bdab43ebb4cab75573adeda1/playlist.m3u8"
-    },
-    {
+       {
         "title": "Truyền hình Bình Dương 1",
-        "url": "https://hatvoinhau.net/api/playtv?id=4bc0efca95fc4f2a1a99460b3272efdf51894173ca2aecf4d9ba3427860097ec"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=194"
     },
     {
         "title": "Truyền hình Bình Dương 2",
-        "url": "https://hatvoinhau.net/api/playtv?id=314c13c8f093d6f8773c7077191719d5e0d95eb15f8ff957622e610fe1d2ddd5"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=194"
     },
     {
         "title": "Truyền hình Bình Định",
@@ -261,7 +257,7 @@
     },
     {
         "title": "Truyền hình Bình Thuận",
-        "url": "https://hatvoinhau.net/api/playtv?id=476dcdd91e8a649c3b71a8ec18ff2d5d4e2af9bec420b5e96e79d13f297ca6c9"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=45"
     },
     {
         "title": "Truyền hình Cao Bằng",
@@ -269,13 +265,9 @@
     },
     {
         "title": "Truyền hình Đà Nẵng 1",
-        "url": "http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/playlist.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=49"
     },
-    {
-        "title": "Truyền hình Đà Nẵng 2",
-        "url": "http://drtdnglive.e49a7c38.cdnviet.com/livestream/playlist.m3u8"
-    },
-    {
+        {
         "title": "Truyền hình Đắk Lắk",
         "url": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8"
     },
@@ -285,7 +277,7 @@
     },
     {
         "title": "Truyền hình Đồng Nai 1",
-        "url": "https://hatvoinhau.net/api/playtv?id=71b0385a6af326b01dcc0bd082398cba3b8692ac712256700abb67f1079a8f27"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=53"
     },
     {
         "title": "Truyền hình Đồng Nai 2",
@@ -293,7 +285,7 @@
     },
     {
         "title": "Truyền hình Gia Lai",
-        "url": "http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=55"
     },
     {
         "title": "Truyền hình Hà Giang",
@@ -305,11 +297,11 @@
     },
     {
         "title": "Truyền hình Hà Nội 1",
-        "url": "https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/playlist.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=33"
     },
     {
         "title": "Truyền hình Hà Nội 2",
-        "url": "https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/playlist.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=34"
     },
     {
         "title": "Truyền hình Hà Tĩnh",
@@ -321,7 +313,7 @@
     },
     {
         "title": "Truyền hình Hải Phòng",
-        "url": "https://hatvoinhau.net/api/playtv?id=563001461be76b0eff0795aa199c2f2bca8fc9a89ec613554270e798ee62af17"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=60"
     },
     {
         "title": "Truyền hình Hòa Bình",
@@ -333,7 +325,7 @@
     },
     {
         "title": "Truyền hình Hưng Yên",
-        "url": "https://1253218859.e.cdneverest.net/Bl7kJCGekjxJN7QpzRF_dA/1705605426/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=64"
     },
     {
         "title": "Truyền hình Khánh Hòa",
@@ -353,7 +345,7 @@
     },
     {
         "title": "Truyền hình Lào Cai",
-        "url": "https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=71"
     },
     {
         "title": "Truyền hình Lâm Đồng",
@@ -361,35 +353,27 @@
     },
     {
         "title": "Truyền hình Nam Định",
-        "url": "https://hatvoinhau.net/api/playtv?id=f9c6131a711158dee0858f111dd4ce2967bcbfd283816a17632764da671a5df9"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=73"
     },
     {
         "title": "Truyền hình Ninh Bình",
-        "url": "https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/playlist.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=75"
     },
     {
         "title": "Truyền hình Ninh Thuận",
         "url": "https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8"
     },
-    {
-        "title": "Truyền hình Phú Thọ",
-        "url": "https://hatvoinhau.net/api/playtv/phuthoc.m3u8"
-    },
-    {
+        {
         "title": "Truyền hình Phú Yên",
         "url": "http://113.161.4.48:8080/phuyen/tv/index.m3u8"
     },
-    {
-        "title": "Truyền hình Quảng Bình",
-        "url": "https://live-on-v2-cdnetwork.sigmaott.com/manifest/quang-binh/master.m3u8"
-    },
-    {
+       {
         "title": "Truyền hình Quảng Nam",
         "url": "https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8"
     },
     {
         "title": "Truyền hình Quảng Ngãi",
-        "url": "http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=81"
     },
     {
         "title": "Truyền hình Quảng Ninh 1",
@@ -401,7 +385,7 @@
     },
     {
         "title": "Truyền hình Quảng Trị",
-        "url": "http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=83"
     },
     {
         "title": "Truyền hình Sơn La",
@@ -409,11 +393,11 @@
     },
     {
         "title": "Truyền hình Tây Ninh",
-        "url": "https://1011154949.vnns.net/0f13b8fdde658e21bbaa836d5dde80261706168608/tayninhsd.720p.adm.tms/playlist.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=86"
     },
     {
         "title": "Truyền hình Thái Bình",
-        "url": "https://1253668792.e.cdneverest.net/6DkdN3xpcVYPmuHnwH_pqA/1705601880/live/2856ed45cc2223b40e0b770b91c12dbce17/playlist.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=87"
     },
     {
         "title": "Truyền hình Thái Nguyên",
@@ -421,7 +405,7 @@
     },
     {
         "title": "Truyền hình Thanh Hóa",
-        "url": "https://hatvoinhau.net/api/playtv/thanhhoac.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=89"
     },
     {
         "title": "Truyền hình Huế",
@@ -429,7 +413,7 @@
     },
     {
         "title": "Truyền hình Tuyên Quang",
-        "url": "https://live.tuyenquangtv.vn/hls/ttv.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=92"
     },
     {
         "title": "Truyền hình Vĩnh Phúc",
@@ -437,14 +421,6 @@
     },
     {
         "title": "Truyền hình Yên Bái",
-        "url": "https://live.yenbaitv.org.vn/hls/livestream.m3u8"
-    },
-    {
-        "title": "Truyền hình VOV",
-        "url": "https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8?"
-    },
-    {
-        "title": "Truyền hình ANTV",
-        "url": "https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8"
+        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=95"
     }
 ]
