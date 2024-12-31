@@ -65,15 +65,27 @@
     },
     {
         "title": "Truyền hình HTV1",
-        "url": "http://xemtivi.zapto.org:8080/360/tv360mpd.php?id=190"
+        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2631"
     },
     {
         "title": "Truyền hình HTV2",
-        "url": "http://xemtivi.zapto.org:8080/360/tv360mpd.php?id=191"
+        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2669"
     },
     {
         "title": "Truyền hình HTV3",
-        "url": "http://xemtivi.zapto.org:8080/360/tv360mpd.php?id=192"
+        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2535"
+    },
+     {
+        "title": "Truyền hình HTV4",
+        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2528"
+    },
+     {
+        "title": "Truyền hình HTV7",
+        "url": "https://vc.101vn.com/htv/htvcmb.php?id=256"
+    },
+     {
+        "title": "Truyền hình HTV9",
+        "url": "https://vc.101vn.com/htv/htvcmb.php?id=2667"
     },
     {
         "title": "Truyền hình TP Cần Thơ",
@@ -121,15 +133,35 @@
     },
     {
         "title": "Truyền hình HTVC Phim",
-        "url": "https://hatvoinhau.net/api/playtv?id=314c13c8f093d6f8773c7077191719d52a0f955ecd3057309d0531e9e743d19a"
+        "url": "https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8"
     },
     {
         "title": "Truyền hình HTVC Ca Nhạc",
-        "url": "https://hatvoinhau.net/api/playtv?id=d95828de4a77f7ceb7ea94a824b0a5d6045f5b4804bbafc9c6c930efdccf4c91"
+        "url": "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8"
     },
     {
         "title": "Truyền hình HTVC Thể Thao",
-        "url": "https://hatvoinhau.net/api/playtv?id=b704caf3765cec071c376ed4bc6ed45b88a12826b6db0a06b34a681638d7fcb2"
+        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    },
+     {
+        "title": "Truyền hình HTVC Du Lịch",
+        "url": "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8"
+    },
+     {
+        "title": "Truyền hình HTVC Gia Đình",
+        "url": "https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8"
+    },
+     {
+        "title": "Truyền hình HTVC Phụ Nữ",
+        "url": "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8"
+    },
+     {
+        "title": "Truyền hình HTVC Thuần Việt",
+        "url": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8"
+    },
+      {
+        "title": "Truyền hình HTVC+",
+        "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
     },
     {
         "title": "Truyền hình VTC1",
