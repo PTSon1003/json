@@ -225,7 +225,7 @@
     },
     {
         "title": "Truyền hình SCTV2",
-        "url": "https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8"
+        "url": "https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8"
     },
     {
         "title": "Truyền hình Bà Rịa Vũng Tàu",
