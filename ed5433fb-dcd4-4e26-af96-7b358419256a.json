@@ -49,15 +49,15 @@
     },
     {
         "title": "Truyền hình Vĩnh Long 2",
-        "url": "https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8"
+        "url": "http://xemtivi.zapto.org:8080/360/tv360mpd.php?id=26"
     },
     {
         "title": "Truyền hình Vĩnh Long 3",
-        "url": "https://hodam:66668888@tvh.hothanhdam.dsmynas.com/stream/channelid/556914677"
+        "url": "https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8"
     },
     {
         "title": "Truyền hình Vĩnh Long 4",
-        "url": "https://hodam:66668888@tvh.hothanhdam.dsmynas.com/stream/channelid/541337809"
+        "url": "https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8"
     },
     {
         "title": "Truyền hình Trà Vinh",
