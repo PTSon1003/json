@@ -107,13 +107,15 @@
         "title": "Truyền hình HTVC+",
         "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
     },
-     {
-        "title": "Truyền hình Vĩnh Long 1",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8"
-    },
+
     {
         "title": "Truyền hình SCTV6",
         "url": "http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8"
+    },
+    
+    {
+        "title": "Truyền hình Vĩnh Long 1",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8"
     },
     {
         "title": "Truyền hình Vĩnh Long 2",
@@ -243,7 +245,7 @@
     
      {
         "title": "Truyền hình Khánh Hòa",
-        "url": "https://tv.ktv.org.vn/ktv.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8"
     },
      {
         "title": "Truyền hình Phú Yên",
