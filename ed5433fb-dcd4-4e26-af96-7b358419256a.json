@@ -177,7 +177,7 @@
     },
     {
         "title": "Truyền hình Bà Rịa Vũng Tàu",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=94"
+        "url": "https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Bắc Ninh",
@@ -185,15 +185,15 @@
     },
        {
         "title": "Truyền hình Bình Dương 1",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=194"
+        "url": "https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Bình Dương 2",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=194"
+        "url": "https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Bình Định",
-        "url": "http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Bình Phước",
@@ -213,9 +213,13 @@
     },
     {
         "title": "Truyền hình Đà Nẵng 1",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=49"
+        "url": "https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8"
     },
-        {
+    {
+        "title": "Truyền hình Đà Nẵng 2",
+        "url": "https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8"
+    },
+    {
         "title": "Truyền hình Đắk Lắk",
         "url": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8"
     },
@@ -233,7 +237,7 @@
     },
     {
         "title": "Truyền hình Gia Lai",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=55"
+        "url": "https://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Hà Giang",
@@ -245,11 +249,11 @@
     },
     {
         "title": "Truyền hình Hà Nội 1",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=33"
+        "url": "https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8"
     },
     {
         "title": "Truyền hình Hà Nội 2",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=34"
+        "url": "http://thvip.site/TV360HD/tv360mpd.php?id=34"
     },
     {
         "title": "Truyền hình Hà Tĩnh",
@@ -261,7 +265,7 @@
     },
     {
         "title": "Truyền hình Hải Phòng",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=60"
+        "url": "https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Hòa Bình",
@@ -273,7 +277,7 @@
     },
     {
         "title": "Truyền hình Hưng Yên",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=64"
+        "url": "https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Khánh Hòa",
@@ -293,7 +297,7 @@
     },
     {
         "title": "Truyền hình Lào Cai",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=71"
+        "url": "https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Lâm Đồng",
@@ -301,11 +305,11 @@
     },
     {
         "title": "Truyền hình Nam Định",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=73"
+        "url": "https://live.fptplay53.net/epzsd1/namdinh_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Ninh Bình",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=75"
+        "url": "https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Ninh Thuận",
@@ -313,15 +317,15 @@
     },
         {
         "title": "Truyền hình Phú Yên",
-        "url": "http://113.161.4.48:8080/phuyen/tv/index.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/phuyen_hls.smil/chunklist_b2500000.m3u8"
     },
        {
         "title": "Truyền hình Quảng Nam",
-        "url": "https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Quảng Ngãi",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=81"
+        "url": "https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Quảng Ninh 1",
@@ -333,7 +337,7 @@
     },
     {
         "title": "Truyền hình Quảng Trị",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=83"
+        "url": "https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Sơn La",
@@ -341,11 +345,11 @@
     },
     {
         "title": "Truyền hình Tây Ninh",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=86"
+        "url": "https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Thái Bình",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=87"
+        "url": "https://live.fptplay53.net/fnxsd1/thaibinh_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Thái Nguyên",
@@ -353,7 +357,7 @@
     },
     {
         "title": "Truyền hình Thanh Hóa",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=89"
+        "url": "https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Huế",
@@ -361,7 +365,7 @@
     },
     {
         "title": "Truyền hình Tuyên Quang",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=92"
+        "url": "https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Vĩnh Phúc",
@@ -369,6 +373,6 @@
     },
     {
         "title": "Truyền hình Yên Bái",
-        "url": "http://hoatv001.ddns.net:8002/ott/tv3603.php?id=95"
+        "url": "https://live.fptplay53.net/fnxsd1/yenbai_hls.smil/chunklist_b2500000.m3u8"
     }
 ]
