@@ -109,6 +109,10 @@
     },
 
     {
+        "title": "Bchannel BTV9",
+        "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
+    },
+    {
         "title": "Truyền hình SCTV6",
         "url": "http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8"
     },
@@ -301,6 +305,18 @@
         "title": "Truyền hình Hà Nội 2",
         "url": "https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist_b2500000.m3u8"
     },
+     {
+        "title": "Truyền hình Bắc Giang",
+        "url": "https://live.fptplay53.net/fnxsd1/bacgiang_hls.smil/chunklist_b2500000.m3u8"
+    },
+     {
+        "title": "Truyền hình Bắc Kan",
+        "url": "https://live.fptplay53.net/fnxsd1/backan_hls.smil/chunklist_b2500000.m3u8"
+    },
+     {
+        "title": "Truyền hình Bắc Ninh",
+        "url": "https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist_b2500000.m3u8"
+    },
     {
         "title": "Truyền hình Cao Bằng",
         "url": "http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8"
@@ -354,6 +370,10 @@
         "url": "https://live.fptplay53.net/epzsd1/namdinh_hls.smil/chunklist_b2500000.m3u8"
     },
     {
+        "title": "Truyền hình Bắc Ninh",
+        "url": "https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8"
+    },
+    {
         "title": "Truyền hình Ninh Bình",
         "url": "https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8"
     },
@@ -365,7 +385,6 @@
         "title": "Truyền hình Quảng Ninh 3",
         "url": "https://live.baoquangninh.vn/qtvlive/tv3live.m3u8"
     },
-    
     {
         "title": "Truyền hình Sơn La",
         "url": "https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8"
@@ -387,18 +406,14 @@
         "url": "http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8"
     },
     {
-        "title": "Truyền hình Bắc Ninh",
-        "url": "https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8"
-    },
-    {
         "title": "Truyền hình Yên Bái",
         "url": "https://live.fptplay53.net/fnxsd1/yenbai_hls.smil/chunklist_b2500000.m3u8"
     },
-    
-    {
-        "title": "Bchannel BTV9",
-        "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
+     {
+        "title": "Truyền hình Phú Thọ",
+        "url": "https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8"
     },
+    
     {
         "title": "afn",
         "url": "https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8"
