@@ -114,13 +114,70 @@
         "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Truyền hình SCTV6",
+        "title": "SCTV6",
         "url": "http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8"
     },
     {
-        "title": "Truyền hình VTVCad-Shopping",
+        "title": "VTVCad-Shopping",
         "url": "https://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b1800000.m3u8"
     },
+    {
+        "title": "VTVCad PHIM VIE",
+        "url": "https://thvip.site/TV360HD/175/index.m3u8"
+    },
+    {
+        "title": "VTVCad Cine",
+        "url": "https://thvip.site/TV360HD/176/index.m3u8"
+    },
+    {
+        "title": "VTVCad Vie DRAMAS",
+        "url": "https://thvip.site/TV360HD/177/index.m3u8"
+    },
+    {
+        "title": "VTVCad BiBi",
+        "url": "https://thvip.site/TV360HD/178/index.m3u8"
+    },
+    {
+        "title": "VTVCad KIDS",
+        "url": "https://thvip.site/TV360HD/179/index.m3u8"
+    },
+    {
+        "title": "VTVCad GIAI TRI",
+        "url": "https://thvip.site/TV360HD/180/index.m3u8"
+    },
+    {
+        "title": "VTVCad MOVIES",
+        "url": "https://thvip.site/TV360HD/181/index.m3u8"
+    },
+    {
+        "title": "VTVCad E CHANNEL",
+        "url": "https://thvip.site/TV360HD/182/index.m3u8"
+    },
+    {
+        "title": "VTVCad Style",
+        "url": "https://thvip.site/TV360HD/184/index.m3u8"
+    },
+    {
+        "title": "VTVCad MUSIC",
+        "url": "https://thvip.site/TV360HD/185/index.m3u8"
+    },
+    {
+        "title": "VTVCad TRENDING",
+        "url": "https://thvip.site/TV360HD/186/index.m3u8"
+    },
+    {
+        "title": "VTVCad VFAMILY",
+        "url": "https://thvip.site/TV360HD/187/index.m3u8"
+    },
+    {
+        "title": "VTVCad life",
+        "url": "https://thvip.site/TV360HD/188/index.m3u8"
+    },
+    {
+        "title": "VTVCad INFO",
+        "url": "https://thvip.site/TV360HD/189/index.m3u8"
+    },
+
     {
         "title": "Truyền hình Vĩnh Long 1",
         "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8"
