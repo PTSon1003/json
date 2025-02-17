@@ -236,6 +236,10 @@
         "url": "http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8"
     },
     {
+        "title": "Truyền hình Daknong",
+        "url": "https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w191108143_b964000_sleng.m3u8"
+    },
+    {
         "title": "Truyền hình Đắk Lắk",
         "url": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8"
     },
