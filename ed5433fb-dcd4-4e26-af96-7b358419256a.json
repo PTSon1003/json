@@ -216,19 +216,15 @@
     },
     {
         "title": "Truyền hình Bình Thuận",
-        "url": "https://64d0d74b76158.streamlock.net:443/BTVTV/binhthuantv/chunklist_w1166505719.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/binhthuan_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Ninh Thuận",
-        "url": "https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Lâm Đồng",
         "url": "http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8"
-    },
-     {
-        "title": "Truyền hình Đắk Nông",
-        "url": "http://thvip.site/TV360HD/tv360mpd.php?id=50"
     },
     {
         "title": "Truyền hình Đắk Lắk",
@@ -392,5 +388,26 @@
     {
         "title": "Truyền hình Yên Bái",
         "url": "https://live.fptplay53.net/fnxsd1/yenbai_hls.smil/chunklist_b2500000.m3u8"
+    },
+    
+    {
+        "title": "Bchannel",
+        "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
+    },
+    {
+        "title": "afn",
+        "url": "https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8"
+    },
+    {
+        "title": "Outdoor",
+        "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
+    },
+    {
+        "title": "Davinci",
+        "url": "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8"
+    },
+    {
+        "title": "Kix",
+        "url": "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8"
     }
 ]
