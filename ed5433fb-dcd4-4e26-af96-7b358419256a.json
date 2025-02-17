@@ -112,6 +112,11 @@
         "title": "Truyền hình SCTV6",
         "url": "http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8"
     },
+
+    {
+        "title": "Truyền hình VTVCad-Shopping",
+        "url": "https://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b1800000.m3u8"
+    },
     
     {
         "title": "Truyền hình Vĩnh Long 1",
@@ -294,7 +299,7 @@
     },
     {
         "title": "Truyền hình Hà Nội 2",
-        "url": "http://thvip.site/TV360HD/tv360mpd.php?id=34"
+        "url": "https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Cao Bằng",
@@ -391,7 +396,7 @@
     },
     
     {
-        "title": "Bchannel",
+        "title": "Bchannel BTV9",
         "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
     },
     {
