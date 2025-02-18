@@ -121,63 +121,7 @@
         "title": "VTVCad-Shopping",
         "url": "https://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b1800000.m3u8"
     },
-    {
-        "title": "VTVCad PHIM VIE",
-        "url": "https://thvip.site/TV360HD/175/index.m3u8"
-    },
-    {
-        "title": "VTVCad Cine",
-        "url": "https://thvip.site/TV360HD/176/index.m3u8"
-    },
-    {
-        "title": "VTVCad Vie DRAMAS",
-        "url": "https://thvip.site/TV360HD/177/index.m3u8"
-    },
-    {
-        "title": "VTVCad BiBi",
-        "url": "https://thvip.site/TV360HD/178/index.m3u8"
-    },
-    {
-        "title": "VTVCad KIDS",
-        "url": "https://thvip.site/TV360HD/179/index.m3u8"
-    },
-    {
-        "title": "VTVCad GIAI TRI",
-        "url": "https://thvip.site/TV360HD/180/index.m3u8"
-    },
-    {
-        "title": "VTVCad MOVIES",
-        "url": "https://thvip.site/TV360HD/181/index.m3u8"
-    },
-    {
-        "title": "VTVCad E CHANNEL",
-        "url": "https://thvip.site/TV360HD/182/index.m3u8"
-    },
-    {
-        "title": "VTVCad Style",
-        "url": "https://thvip.site/TV360HD/184/index.m3u8"
-    },
-    {
-        "title": "VTVCad MUSIC",
-        "url": "https://thvip.site/TV360HD/185/index.m3u8"
-    },
-    {
-        "title": "VTVCad TRENDING",
-        "url": "https://thvip.site/TV360HD/186/index.m3u8"
-    },
-    {
-        "title": "VTVCad VFAMILY",
-        "url": "https://thvip.site/TV360HD/187/index.m3u8"
-    },
-    {
-        "title": "VTVCad life",
-        "url": "https://thvip.site/TV360HD/188/index.m3u8"
-    },
-    {
-        "title": "VTVCad INFO",
-        "url": "https://thvip.site/TV360HD/189/index.m3u8"
-    },
-
+    
     {
         "title": "Truyền hình Vĩnh Long 1",
         "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8"
@@ -200,15 +144,15 @@
     },
     {
         "title": "Truyền hình TP Cần Thơ",
-        "url": "https://live.canthotv.vn/live/tv/chunklist.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Bến Tre",
-        "url": "https://1011154949.vnns.net/CDN-FPT02/BENTRE-SD-ABR/playlist.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Đồng Tháp 1",
-        "url": "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8"
     },
      {
         "title": "Truyền hình Đồng Tháp 2",
@@ -216,23 +160,23 @@
     },
     {
         "title": "Truyền hình Tiền Giang",
-        "url": "http://123.25.238.45:1935/live/thtg/playlist.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/tiengiang_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Hậu Giang",
-        "url": "https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/haugiang_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình An Giang",
-        "url": "https://1011154949.vnns.net/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Kiên Giang",
-        "url": "https://tv.kgtv.vn/live/kgtv/kgtv.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Trà Vinh",
-        "url": "https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/travinh_vhls.smil/chunklist_b5000000.m3u8"
     },
     {
         "title": "Truyền hình Sóc Trăng",
@@ -240,11 +184,11 @@
     },
     {
         "title": "Truyền hình Bạc Liêu",
-        "url": "https://tv.thbl.vn/live/tv/tv.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Cà Mau",
-        "url": "https://tv.ctvcamau.vn/live/tv/tv.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8"
     },
     
     {
@@ -338,11 +282,11 @@
     },
     {
         "title": "Truyền hình Huế",
-        "url": "https://live.trt.com.vn/TRT-Online/playlist.m3u8"
+        "url": "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Nghệ An",
-        "url": "https://natv.vncdn.vn/natvlive/tv1live.m3u8"
+        "url": "https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8"
     },
      {
         "title": "Truyền hình Quảng Bình",
@@ -447,7 +391,7 @@
     },
     {
         "title": "Truyền hình Sơn La",
-        "url": "https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8"
+        "url": "https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8"
     },
     {
         "title": "Truyền hình Thái Bình",
