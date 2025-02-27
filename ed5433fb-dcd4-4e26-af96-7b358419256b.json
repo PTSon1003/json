@@ -1,0 +1,104 @@
+[
+    {
+        "title": "Truyền hình ANTV",
+        "url": "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8"
+    },
+    {
+        "title": "VTV1",
+        "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8"
+    },
+    {
+        "title": "VTV2",
+        "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8"
+    },
+    {
+        "title": "VTV3",
+        "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8"
+    },
+    {
+        "title": "Truyền hình HTV1",
+        "url": "https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8"
+    },
+    {
+        "title": "Truyền hình HTV2",
+        "url": "https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8"
+    },
+    {
+        "title": "Truyền hình HTV3",
+        "url": "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8"
+    },
+    {
+        "title": "Truyền hình HTV4",
+        "url": "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8"
+    },
+     {
+        "title": "Truyền hình HTV7",
+        "url": "https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8"
+    },
+     {
+        "title": "Truyền hình HTV9",
+        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8"
+    },
+    {
+        "title": "Truyền hình HTVC Thể Thao",
+        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    },
+    {
+        "title": "Truyền hình HTVC Phim",
+        "url": "https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8"
+    },
+    {
+        "title": "Truyền hình HTVC Ca Nhạc",
+        "url": "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8"
+    },
+    {
+        "title": "Truyền hình HTVC Du Lịch",
+        "url": "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8"
+    },
+     {
+        "title": "Truyền hình HTVC Gia Đình",
+        "url": "https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8"
+    },
+     {
+        "title": "Truyền hình HTVC Phụ Nữ",
+        "url": "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8"
+    },
+     {
+        "title": "Truyền hình HTVC Thuần Việt",
+        "url": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8"
+    },
+      {
+        "title": "Truyền hình HTVC+",
+        "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
+    },
+
+    {
+        "title": "Bchannel BTV9",
+        "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
+    },
+    {
+        "title": "SCTV6",
+        "url": "http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8"
+    },
+    {
+        "title": "VTVCad-Shopping",
+        "url": "https://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b1800000.m3u8"
+    },
+    
+    {
+        "title": "Truyền hình Vĩnh Long 1",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8"
+    },
+    {
+        "title": "Truyền hình Vĩnh Long 2",
+        "url": "https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8"
+    },
+    {
+        "title": "Truyền hình Vĩnh Long 3",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8"
+    },
+    {
+        "title": "Truyền hình Vĩnh Long 4",
+        "url": "https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8"
+    }
+]
