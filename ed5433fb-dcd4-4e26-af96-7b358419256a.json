@@ -27,31 +27,31 @@
         "title": "VTV5",
         "url": "https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8"
     },
-    {
-        "title": "VTV7",
-        "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8"
+     {
+        "title": "VTV5 Tây Nam Bộ",
+        "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8"
     },
-       {
-        "title": "VTV8",
-        "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8"
-    },
-       {
-        "title": "VTV9",
-        "url": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8"
+     {
+        "title": "VTV5 Tây Nguyên",
+        "url": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8"
     },
     {
         "title": "VTV Cần Thơ",
         "url": "https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8"
     },
     {
-        "title": "VTV Tây Nam Bộ",
-        "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8"
+        "title": "VTV7",
+        "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8"
     },
-     {
-        "title": "VTV Tây Nguyên",
-        "url": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8"
+    
+    {
+        "title": "VTV8",
+        "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8"
     },
-         
+       {
+        "title": "VTV9",
+        "url": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8"
+    },    
     {
         "title": "HTV1",
         "url": "https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8"
@@ -289,7 +289,7 @@
         "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
     },
     {
-        "title": "Truyền hình Tuyên Quang",
+        "title": "Tuyên Quang",
         "url": "https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8"
     },
     {
@@ -314,5 +314,6 @@
         "url": "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8"
     }
 ]
+
 
 
