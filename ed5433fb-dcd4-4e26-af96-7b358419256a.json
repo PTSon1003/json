@@ -69,7 +69,7 @@
         "url": "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8"
     },
      {
-        "title": "Truyền hình HTV7",
+        "title": "HTV7",
         "url": "https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8"
     },
      {
@@ -233,15 +233,15 @@
         "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=auto&gcId=1532&pkg=pkg11.hni"
     },
     {
-        "title": "Truyền hình Hà Giang",
+        "title": "Hà Giang",
         "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=auto&gcId=1532&pkg=pkg11.hni"
     },
     {
-        "title": "Truyền hình Hà Nam",
+        "title": "Hà Nam",
         "url": "https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/playlist.m3u8"
     },
     {
-        "title": "Truyền hình Hà Tĩnh",
+        "title": "Hà Tĩnh",
         "url": "https://wse.hatinhtv.net/live/httv1/playlist.m3u8"
     },
     {
@@ -257,19 +257,19 @@
         "url": "https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Truyền hình Lai Châu",
+        "title": "Lai Châu",
         "url": "http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=auto&gcId=1532&pkg=pkg11.hni"
     },
     {
-        "title": "Truyền hình Lạng Sơn",
+        "title": "Lạng Sơn",
         "url": "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8"
     },
     {
-        "title": "Truyền hình Lào Cai",
+        "title": "Lào Cai",
         "url": "https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Truyền hình Ninh Bình",
+        "title": "Ninh Bình",
         "url": "https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8"
     },
     {
@@ -277,15 +277,15 @@
         "url": "https://live.baoquangninh.vn/qtvlive/tv1live.m3u8"
     },
     {
-        "title": "Truyền hình Quảng Ninh 3",
+        "title": "Quảng Ninh 3",
         "url": "https://live.baoquangninh.vn/qtvlive/tv3live.m3u8"
     },
     {
-        "title": "Truyền hình Sơn La",
+        "title": "Sơn La",
         "url": "https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Truyền hình Thái Nguyên",
+        "title": "Thái Nguyên",
         "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
     },
     {
@@ -293,7 +293,7 @@
         "url": "https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Truyền hình Phú Thọ",
+        "title": "Phú Thọ",
         "url": "https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8"
     },
     
@@ -314,4 +314,5 @@
         "url": "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8"
     }
 ]
+
 
