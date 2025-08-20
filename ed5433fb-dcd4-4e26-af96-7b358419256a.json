@@ -104,11 +104,22 @@
         "title": "HTVC Thuần Việt",
         "url": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8"
     },
-      {
+    {
         "title": "HTVC+",
         "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
     },
-
+    {
+        "title": "BRVT-TP.HCM",
+        "url": "https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8"
+    },
+    {
+        "title": "BTV1-TP.HCM",
+        "url": "https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8"
+    },
+    {
+        "title": "BTV2-TP.HCM",
+        "url": "https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8"
+    },
     {
         "title": "Bchannel BTV9",
         "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
@@ -155,18 +166,7 @@
         "title": "Tây Ninh",
         "url": "https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8"
     },
-    {
-        "title": "Bà Rịa Vũng Tàu",
-        "url": "https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8"
-    },
-    {
-        "title": "Bình Dương 1",
-        "url": "https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8"
-    },
-    {
-        "title": "Bình Dương 2",
-        "url": "https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8"
-    },
+   
     {
         "title": "Đồng Nai 1",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8"
@@ -204,7 +204,7 @@
         "url": "https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Huế",
+        "title": "TP Huế",
         "url": "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8"
     },
     {
@@ -219,8 +219,7 @@
         "title": "Thanh Hóa",
         "url": "https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8"
     },
-    
-     {
+    {
         "title": "Hà Nội 1",
         "url": "https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8"
     },
@@ -253,7 +252,7 @@
         "url": "https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Truyền hình Hưng Yên",
+        "title": "Hưng Yên",
         "url": "https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8"
     },
     {
@@ -273,7 +272,7 @@
         "url": "https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Truyền hình Quảng Ninh 1",
+        "title": "Quảng Ninh 1",
         "url": "https://live.baoquangninh.vn/qtvlive/tv1live.m3u8"
     },
     {
@@ -314,6 +313,7 @@
         "url": "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8"
     }
 ]
+
 
 
 
