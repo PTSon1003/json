@@ -325,10 +325,15 @@
         "url": "https://hls.mskycdn.online/tv/bbcearth/index.m3u8"
     },
     {
+        "title": "PLANET EARTH",
+        "url": "https://aismile.dpdns.org/play/t4RB-hMURkJ1o2SG4S8Kfk8k7en56dfB4dO5ODwFJ9o/ts"
+    },   
+    {
         "title": "OUTDOOR CHANNEL",
         "url": "https://hls.mskycdn.online/tv/outdoorhd/index.m3u8"
     }
    ]
+
 
 
 
