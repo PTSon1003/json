@@ -124,6 +124,22 @@
         "title": "Bchannel BTV9",
         "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
     },
+     {
+        "title": "VTVCab3-On Sports",
+        "url": "https://pc-web.stream.onlive.vn/live-stm-04/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.5zHfMgQ5u2AyGpoDHurSNTrRZ5bi3a_ddWAGoeqRHDzEKoleDfee42fUhJCCpewMoDlXxYf6VT1XlAseE83eTmKnggyJ_OZhCtcQCDfzrvk"
+    },
+     {
+        "title": "VTVCab6-On Sports+",
+        "url": "https://pc-web.stream.onlive.vn/live-stm-04/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.uBv8uRnJoaxm_14J-PncFXkD68_N42qz2ap-XYYOpvE6HSwHLGi9-S0xVqAQHiTbp0FXDi0KFK008yGjbqwVuFoeJK0vp9rJLhh81JYpDd0"
+    },
+     {
+        "title": "VTVCab16-On Football",
+        "url": "https://pc-web.stream.onlive.vn/live-stm-02/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.XhRO0TxFjFw6vd7ytKqC575llFOhvzdn-2fB-TzfpqQ7PQWHyKw2rHrWEVlWMRypRzIZLJdNIpEYfnPOP5Fx4sbG0k8rpDSRs2QakBb_geo"
+    },
+     {
+        "title": "VTVCab18-On Sports News",
+        "url": "https://pc-web.stream.onlive.vn/live-stm-04/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.M2JO6Mtz75bhbjOFark6ve2oMiwWamPYkcBekKxKUUCcizVYojUTxuiwLEgeNB-do-gMcX5IW8aW0DYgQMPQPbUqsEM_ypKUTZC2OVIJPk4"
+    },
     {
         "title": "SCTV6",
         "url": "http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8"
@@ -333,6 +349,7 @@
         "url": "https://hls.mskycdn.online/tv/outdoorhd/index.m3u8"
     }
    ]
+
 
 
 
