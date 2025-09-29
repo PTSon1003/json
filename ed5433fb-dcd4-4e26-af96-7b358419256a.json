@@ -317,10 +317,6 @@
         "url": "https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8"
     },
     {
-        "title": "Outdoor",
-        "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
-    },
-    {
         "title": "Davinci",
         "url": "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8"
     },
@@ -346,9 +342,10 @@
     },   
     {
         "title": "OUTDOOR CHANNEL",
-        "url": "https://hls.mskycdn.online/tv/outdoorhd/index.m3u8"
+        "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
 
 
