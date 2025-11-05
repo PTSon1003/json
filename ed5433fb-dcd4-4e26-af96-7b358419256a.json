@@ -484,12 +484,21 @@
         "title": "KBS WORLD",
         "url": "https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8"
     }, 
+    {
+        "title": "WOMAN",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=163"
+    }, 
+      {
+        "title": "History",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856"
+    }, 
     
     {
         "title": "OUTDOOR CHANNEL",
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
 
 
