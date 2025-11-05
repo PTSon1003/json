@@ -468,12 +468,29 @@
         "title": "Kix",
         "url": "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8"
     },
+     {
+        "title": "HGTV",
+        "url": "https://freem3u.xyz/api/live/play.mpd?vid=99"
+    },
+     {
+        "title": "TLC",
+        "url": "http://125hvt.ddns.net:21585/tlc/index.m3u8"
+    },
+    {
+        "title": "Arirang",
+        "url": "https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8"
+    }, 
+     {
+        "title": "KBS WORLD",
+        "url": "https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8"
+    }, 
     
     {
         "title": "OUTDOOR CHANNEL",
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
 
 
