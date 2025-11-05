@@ -205,6 +205,58 @@
         "title": "SCTV_Tong Hop",
         "url": "https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8"
     },
+    {
+        "title": "ON Movies",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181"
+    },
+    {
+        "title": "ON E_Chanel",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=182"
+    },
+    {
+        "title": "ON O2TV",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=136"
+    },
+    {
+        "title": "ON BiBi",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=178"
+    },
+    {
+        "title": "ON Ifo TV",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=189"
+    },
+    {
+        "title": "ON Cine",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176"
+    },
+    {
+        "title": "ON Style TV",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184"
+    },
+    {
+        "title": "ON Music",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=185"
+    },
+     {
+        "title": "ON Trending TV",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=186"
+    },
+     {
+        "title": "ON Vie DRAMAS",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177"
+    },
+     {
+        "title": "ON VFamily",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=187"
+    },
+     {
+        "title": "ON KIDS",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179"
+    },
+    {
+        "title": "ON Life",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=188"
+    },
     
     {
         "title": "Vĩnh Long 1",
@@ -422,6 +474,7 @@
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
 
 
