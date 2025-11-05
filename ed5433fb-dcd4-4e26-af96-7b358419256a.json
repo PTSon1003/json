@@ -52,6 +52,10 @@
         "title": "VTV9",
         "url": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8"
     },    
+     {
+        "title": "VietNam Today",
+        "url": "https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8"
+    },    
     {
         "title": "HTV1",
         "url": "https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8"
@@ -124,10 +128,82 @@
         "title": "Bchannel BTV9",
         "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
     },
-    
-    {
+
+     {
+        "title": "SCTV1",
+        "url": "https://liveh12.seenow.vn/hls/SCTV1/index.m3u8"
+    },
+     {
+        "title": "SCTV2",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=201"
+    },
+     {
+        "title": "SCTV3",
+        "url": "https://liveh34.seenow.vn/hls/SCTV3/index.m3u8"
+    },
+     {
+        "title": "SCTV4",
+        "url": "https://liveh12.seenow.vn/hls/SCTV4/index.m3u8"
+    },
+     {
         "title": "SCTV6",
         "url": "http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8"
+    },
+    {
+        "title": "SCTV7",
+        "url": "https://liveh34.seenow.vn/hls/SCTV7/index.m3u8"
+    },
+     {
+        "title": "SCTV8",
+        "url": "https://liveh34.seenow.vn/hls/SCTV8/index.m3u8"
+    },
+     {
+        "title": "SCTV10",
+        "url": "https://liveh34.seenow.vn/hls/SCTV10/index.m3u8"
+    },
+     {
+        "title": "SCTV11",
+        "url": "https://liveh34.seenow.vn/hls/SCTV11/index.m3u8"
+    },
+     {
+        "title": "SCTV12",
+        "url": "https://liveh34.seenow.vn/hls/SCTV12/index.m3u8"
+    },
+     {
+        "title": "SCTV13",
+        "url": "https://liveh34.seenow.vn/hls/SCTV13/index.m3u8"
+    },
+    {
+        "title": "SCTV14",
+        "url": "https://liveh34.seenow.vn/hls/SCTV14/index.m3u8"
+    },
+    {
+        "title": "SCTV16",
+        "url": "https://liveh34.seenow.vn/hls/SCTV16/index.m3u8"
+    },
+    {
+        "title": "SCTV18",
+        "url": "https://liveh34.seenow.vn/hls/SCTV18/index.m3u8"
+    },
+    {
+        "title": "SCTV19",
+        "url": "https://liveh34.seenow.vn/hls/SCTV19/index.m3u8"
+    },
+    {
+        "title": "SCTV20",
+        "url": "https://liveh34.seenow.vn/hls/SCTV20/index.m3u8"
+    },
+    {
+        "title": "SCTV21",
+        "url": "https://liveh34.seenow.vn/hls/SCTV21/index.m3u8"
+    },
+    {
+        "title": "SCTV22",
+        "url": "https://liveh34.seenow.vn/hls/SCTV22/index.m3u8"
+    },
+    {
+        "title": "SCTV_Tong Hop",
+        "url": "https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8"
     },
     
     {
@@ -147,24 +223,51 @@
         "url": "https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8"
     },
     {
-        "title": "TP Cần Thơ",
+        "title": "Vĩnh Long 5",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91"
+    },
+    {
+        "title": "Cần Thơ 1",
         "url": "https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8"
+    },
+    {
+        "title": "Cần Thơ 2",
+        "url": "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8"
+    },
+    {
+        "title": "Cần Thơ 3",
+        "url": "https://live.canthotv.vn/live/cs3/playlist.m3u8"
     },
     {
         "title": "Đồng Tháp 1",
         "url": "https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8"
     },
+     {
+        "title": "Miền Tây",
+        "url": "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8"
+    },
     {
-        "title": "An Giang",
+        "title": "An Giang 1",
+        "url": "https://tv.kgtv.vn/live/kgtv/kgtv.m3u8"
+    },
+     {
+        "title": "An Giang 2",
         "url": "https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8"
+    },
+     {
+        "title": "An Giang 3",
+        "url": "http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8"
     },
     {
         "title": "Cà Mau",
         "url": "https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8"
     },
-    
     {
-        "title": "Tây Ninh",
+        "title": "Tây Ninh 1",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=72"
+    },
+    {
+        "title": "Tây Ninh 2",
         "url": "https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8"
     },
    
@@ -181,15 +284,19 @@
         "url": "https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8"
     },
     {
+        "title": "Lâm Đồng 2",
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=45"
+    },
+    {
         "title": "Lâm Đồng 3",
-        "url": "https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w191108143_b964000_sleng.m3u8"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=50"
     },
     {
         "title": "Đắk Lắk",
         "url": "https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Khánh Hòa",
+        "title": "Khánh Hòa 1",
         "url": "https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8"
     },
     {
@@ -311,14 +418,11 @@
     },
     
     {
-        "title": "PLANET EARTH",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8"
-    },   
-    {
         "title": "OUTDOOR CHANNEL",
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
 
 
