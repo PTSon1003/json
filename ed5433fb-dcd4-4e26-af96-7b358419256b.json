@@ -113,10 +113,6 @@
         "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
     },
     {
-        "title": "BRVT-TP.HCM",
-        "url": "https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8"
-    },
-    {
         "title": "Bchannel BTV9",
         "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
     },
@@ -291,7 +287,7 @@
         "url": "https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8"
     },
      {
-        "title": "Miền Tây",
+        "title": "Đồng Tháp 2",
         "url": "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8"
     },
     {
@@ -344,7 +340,7 @@
         "url": "https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Khánh Hòa 1",
+        "title": "Khánh Hòa",
         "url": "https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8"
     },
     {
@@ -506,25 +502,3 @@
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
