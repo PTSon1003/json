@@ -496,9 +496,13 @@
         "title": "Planet Earth",
         "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=135&token=2025"
     }, 
-    
+    {
+        "title": "Animal Planet",
+        "url": "http://aismile.dpdns.org/play/t4RB-hMURkJ1o2SG4S8Kfh6BlXsWesEgx41AzdL9rp0/ts"
+    }, 
     {
         "title": "OUTDOOR CHANNEL",
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
