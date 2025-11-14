@@ -488,7 +488,27 @@
         "title": "WOMAN",
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=163"
     }, 
-      {
+    {
+        "title": "DW",
+        "url": "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
+    }, 
+    {
+        "title": "TV5 Monde",
+        "url": "https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8"
+    }, 
+     {
+        "title": "France 24 English",
+        "url": "https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8"
+    }, 
+     {
+        "title": "CNBC",
+        "url": "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
+    }, 
+     {
+        "title": "CNA",
+        "url": "https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8"
+    }, 
+    {
         "title": "History",
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856"
     }, 
@@ -497,12 +517,9 @@
         "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=135&token=2025"
     }, 
     {
-        "title": "Animal Planet",
-        "url": "http://aismile.dpdns.org/play/t4RB-hMURkJ1o2SG4S8Kfh6BlXsWesEgx41AzdL9rp0/ts"
-    }, 
-    {
         "title": "OUTDOOR CHANNEL",
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
