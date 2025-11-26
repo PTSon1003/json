@@ -448,30 +448,6 @@
         "url": "https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-        "title": "Box Movie 1",
-        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=159&token=2025"
-    },
-     {
-        "title": "Box Hits",
-        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=239&token=2025"
-    },
-     {
-        "title": "In The Box",
-        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=235&token=2025"
-    },
-     {
-        "title": "Music Box",
-        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=289&token=2025"
-    },
-    {
-        "title": "Hollywood Classics",
-        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=160&token=2025"
-    },
-    {
-        "title": "Happy Kids",
-        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=212&token=2025"
-    }, 
-    {
         "title": "afn",
         "url": "https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8"
     },
@@ -494,14 +470,6 @@
     {
         "title": "KBS WORLD",
         "url": "https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8"
-    }, 
-    {
-        "title": "Mr.Fit",
-        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=162&token=2025"
-    }, 
-     {
-        "title": "Man",
-        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=237&token=2025"
     }, 
     {
         "title": "WOMAN",
@@ -532,14 +500,11 @@
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856"
     }, 
     {
-        "title": "Planet Earth",
-        "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=135&token=2025"
-    }, 
-    {
         "title": "OUTDOOR CHANNEL",
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
 
 
