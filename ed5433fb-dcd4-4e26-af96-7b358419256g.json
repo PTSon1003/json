@@ -145,6 +145,10 @@
         "title": "SCTV8",
         "url": "https://liveh34.seenow.vn/hls/SCTV8/index.m3u8"
     },
+    {
+        "title": "SCTV9",
+        "url": "https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd"
+    },
      {
         "title": "SCTV10",
         "url": "https://liveh34.seenow.vn/hls/SCTV10/index.m3u8"
@@ -165,9 +169,17 @@
         "title": "SCTV14",
         "url": "https://liveh34.seenow.vn/hls/SCTV14/index.m3u8"
     },
+     {
+        "title": "SCTV15",
+        "url": "https://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd"
+    },
     {
         "title": "SCTV16",
         "url": "https://liveh34.seenow.vn/hls/SCTV16/index.m3u8"
+    },
+    {
+        "title": "SCTV17",
+        "url": "https://livevlisctcdnw.seenow.vn/livesnv2/SCTV17/manifest.mpd"
     },
     {
         "title": "SCTV18",
@@ -508,6 +520,7 @@
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
 
 
