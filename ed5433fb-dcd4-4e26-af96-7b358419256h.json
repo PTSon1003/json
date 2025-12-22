@@ -147,7 +147,7 @@
     },
     {
         "title": "SCTV9",
-        "url": "https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv9"
     },
      {
         "title": "SCTV10",
@@ -171,7 +171,7 @@
     },
      {
         "title": "SCTV15",
-        "url": "https://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv15"
     },
     {
         "title": "SCTV16",
@@ -179,7 +179,7 @@
     },
     {
         "title": "SCTV17",
-        "url": "https://livevlisctcdnw.seenow.vn/livesnv2/SCTV17/manifest.mpd"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv17"
     },
     {
         "title": "SCTV18",
@@ -536,6 +536,7 @@
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
 
 
