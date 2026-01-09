@@ -117,155 +117,6 @@
         "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
     },
 
-     {
-        "title": "SCTV1",
-        "url": "https://liveh12.seenow.vn/hls/SCTV1/index.m3u8"
-    },
-     {
-        "title": "SCTV2",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=201"
-    },
-     {
-        "title": "SCTV3",
-        "url": "https://liveh34.seenow.vn/hls/SCTV3/index.m3u8"
-    },
-     {
-        "title": "SCTV4",
-        "url": "https://liveh12.seenow.vn/hls/SCTV4/index.m3u8"
-    },
-     {
-        "title": "SCTV6",
-        "url": "http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8"
-    },
-    {
-        "title": "SCTV7",
-        "url": "https://liveh34.seenow.vn/hls/SCTV7/index.m3u8"
-    },
-     {
-        "title": "SCTV8",
-        "url": "https://liveh34.seenow.vn/hls/SCTV8/index.m3u8"
-    },
-    {
-        "title": "SCTV10",
-        "url": "https://liveh34.seenow.vn/hls/SCTV10/index.m3u8"
-    },
-     {
-        "title": "SCTV11",
-        "url": "https://liveh34.seenow.vn/hls/SCTV11/index.m3u8"
-    },
-     {
-        "title": "SCTV12",
-        "url": "https://liveh34.seenow.vn/hls/SCTV12/index.m3u8"
-    },
-     {
-        "title": "SCTV13",
-        "url": "https://liveh34.seenow.vn/hls/SCTV13/index.m3u8"
-    },
-    {
-        "title": "SCTV14",
-        "url": "https://liveh34.seenow.vn/hls/SCTV14/index.m3u8"
-    },
-    {
-        "title": "SCTV16",
-        "url": "https://liveh34.seenow.vn/hls/SCTV16/index.m3u8"
-    },
-    {
-        "title": "SCTV18",
-        "url": "https://liveh34.seenow.vn/hls/SCTV18/index.m3u8"
-    },
-    {
-        "title": "SCTV19",
-        "url": "https://liveh34.seenow.vn/hls/SCTV19/index.m3u8"
-    },
-    {
-        "title": "SCTV20",
-        "url": "https://liveh34.seenow.vn/hls/SCTV20/index.m3u8"
-    },
-    {
-        "title": "SCTV21",
-        "url": "https://liveh34.seenow.vn/hls/SCTV21/index.m3u8"
-    },
-    {
-        "title": "SCTV22",
-        "url": "https://liveh34.seenow.vn/hls/SCTV22/index.m3u8"
-    },
-    {
-        "title": "SCTV_Tong Hop",
-        "url": "https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8"
-    },
-    {
-        "title": "ON Movies",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181"
-    },
-    {
-        "title": "ON E_Chanel",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=182"
-    },
-    {
-        "title": "ON O2TV",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=136"
-    },
-    {
-        "title": "ON BiBi",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=178"
-    },
-    {
-        "title": "ON Ifo TV",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=189"
-    },
-    {
-        "title": "ON Cine",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176"
-    },
-    {
-        "title": "ON Style TV",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184"
-    },
-    {
-        "title": "ON Music",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=185"
-    },
-     {
-        "title": "ON Trending TV",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=186"
-    },
-     {
-        "title": "ON Vie DRAMAS",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177"
-    },
-     {
-        "title": "ON VFamily",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=187"
-    },
-     {
-        "title": "ON KIDS",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179"
-    },
-    {
-        "title": "ON Life",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=188"
-    },
-     {
-        "title": "ON Football",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?oid=onfootball"
-    },
-    {
-        "title": "ON SportNews",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews"
-    },
-    {
-        "title": "ON Sport",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?oid=onsports"
-    },
-    {
-        "title": "ON Sport+",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus"
-    },
-    {
-        "title": "ON Golf",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?oid=ongolf"
-    },
-        
     {
         "title": "Vĩnh Long 1",
         "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8"
@@ -326,11 +177,7 @@
         "title": "Tây Ninh 1",
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=72"
     },
-    {
-        "title": "Tây Ninh 2",
-        "url": "https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b2500000.m3u8"
-    },
-   
+    
     {
         "title": "Đồng Nai 1",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8"
@@ -524,6 +371,7 @@
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
 
 
