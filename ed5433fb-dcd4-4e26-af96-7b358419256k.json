@@ -146,10 +146,6 @@
         "url": "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8"
     },
     {
-        "title": "Cần Thơ 3",
-        "url": "https://live.canthotv.vn/live/cs3/playlist.m3u8"
-    },
-    {
         "title": "Đồng Tháp 1",
         "url": "https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8"
     },
@@ -361,16 +357,13 @@
     {
         "title": "History",
         "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856"
-    }, 
-    {
-        "title": "Plannet Earth",
-        "url": "https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8"
     },  
     {
         "title": "OUTDOOR CHANNEL",
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
 
 
