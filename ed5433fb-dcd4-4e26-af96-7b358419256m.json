@@ -1,6 +1,6 @@
 [
     {
-        "title": "CÁC KÊNH TIVI MIỄN PHÍ(SƯU TẦM)",
+        "title": "CÁC KÊNH TIVI MIỄN PHÍ (SƯU TẦM)",
         "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
         "title": "VTV Cần Thơ",
-        "url": "https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8"
+        "url": "https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8"
     },
     {
         "title": "VTV7",
@@ -54,7 +54,7 @@
     },
        {
         "title": "VTV9",
-        "url": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8"
+        "url": "https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8"
     },    
      {
         "title": "VietNam Today",
@@ -362,6 +362,7 @@
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
 
 
