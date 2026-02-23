@@ -1,5 +1,9 @@
 [
     {
+        "title": "CÁC KÊNH TIVI MIỄN PHÍ(SƯU TẦM)",
+        "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
+    },
+    {
         "title": "ANTV",
         "url": "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8"
     },
@@ -112,11 +116,6 @@
         "title": "HTVC+",
         "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
     },
-    {
-        "title": "Bchannel BTV9",
-        "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
-    },
-
     {
         "title": "Vĩnh Long 1",
         "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8"
@@ -363,6 +362,7 @@
         "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
     }
    ]
+
 
 
 
