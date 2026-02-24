@@ -1,10 +1,6 @@
 [
     {
-        "title": "CÁC KÊNH TIVI MIỄN PHÍ (SƯU TẦM)",
-        "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
-    },
-    {
-        "title": "ANTV",
+        "title": "CÁC KÊNH TIVI MIỄN PHÍ (SƯU TẦM): ANTV",
         "url": "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8"
     },
     {
@@ -47,7 +43,6 @@
         "title": "VTV7",
         "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8"
     },
-    
     {
         "title": "VTV8",
         "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8"
@@ -76,6 +71,10 @@
         "title": "HTV4",
         "url": "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8"
     },
+    {
+        "title": "HTV5: BChanel",
+        "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8"
+    },
      {
         "title": "HTV7",
         "url": "https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8"
@@ -87,34 +86,6 @@
     {
         "title": "HTVC Thể Thao",
         "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
-    },
-    {
-        "title": "HTVC Phim",
-        "url": "https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8"
-    },
-    {
-        "title": "HTVC Ca Nhạc",
-        "url": "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8"
-    },
-    {
-        "title": "HTVC Du Lịch",
-        "url": "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8"
-    },
-     {
-        "title": "HTVC Gia Đình",
-        "url": "https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8"
-    },
-     {
-        "title": "HTVC Phụ Nữ",
-        "url": "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8"
-    },
-     {
-        "title": "HTVC Thuần Việt",
-        "url": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8"
-    },
-    {
-        "title": "HTVC+",
-        "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
     },
     {
         "title": "Vĩnh Long 1",
@@ -246,10 +217,6 @@
         "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=auto&gcId=1532&pkg=pkg11.hni"
     },
     {
-        "title": "Hà Nam",
-        "url": "https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/playlist.m3u8"
-    },
-    {
         "title": "Hà Tĩnh",
         "url": "https://wse.hatinhtv.net/live/httv1/playlist.m3u8"
     },
@@ -264,10 +231,6 @@
     {
         "title": "Hưng Yên",
         "url": "https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8"
-    },
-    {
-        "title": "Lai Châu",
-        "url": "http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=auto&gcId=1532&pkg=pkg11.hni"
     },
     {
         "title": "Lạng Sơn",
@@ -303,65 +266,10 @@
     },
     {
         "title": "Phú Thọ",
-        "url": "https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8"
-    },
-    {
-        "title": "afn",
-        "url": "https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8"
-    },
-    {
-        "title": "Davinci",
-        "url": "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8"
-    },
-    {
-        "title": "Kix",
-        "url": "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8"
-    },
-     {
-        "title": "TLC",
-        "url": "http://125hvt.ddns.net:21585/tlc/index.m3u8"
-    },
-    {
-        "title": "Arirang",
-        "url": "https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8"
-    }, 
-    {
-        "title": "KBS WORLD",
-        "url": "https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8"
-    }, 
-    {
-        "title": "WOMAN",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=163"
-    }, 
-    {
-        "title": "DW",
-        "url": "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
-    }, 
-    {
-        "title": "TV5 Monde",
-        "url": "https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8"
-    }, 
-     {
-        "title": "France 24 English",
-        "url": "https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8"
-    }, 
-     {
-        "title": "CNBC",
-        "url": "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
-    }, 
-     {
-        "title": "CNA",
-        "url": "https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8"
-    }, 
-    {
-        "title": "History",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856"
-    },  
-    {
-        "title": "OUTDOOR CHANNEL",
-        "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8"
+        "url": "https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8""
     }
    ]
+
 
 
 
